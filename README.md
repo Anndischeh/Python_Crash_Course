@@ -1,7 +1,7 @@
 # Python_Crash_Course
 This repository contains solutions for the Python Crash Course Book.
 
-![Book](https://m.media-amazon.com/images/I/81py-nCTfrL.jpg)
+<img src="https://m.media-amazon.com/images/I/81py-nCTfrL.jpg" alt="Book" width="300" height="400">
 
 This repository contains the solutions for the book [Python Crash Course 2nd Edition](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/No.Starch.Python.Oct_.2015.ISBN_.1593276036.pdf) from chapters 2 to 11. During these exercises, I became familiar with:
 
